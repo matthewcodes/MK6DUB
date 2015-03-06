@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mwilson@mwil.so",
+    "longName": "MK6 DUB",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/mk6.png",
+                "name": "MK6",
+                "type": "png"
+            },
+            {
+                "file": "fonts/AVWBrochure.ttf",
+                "name": "VW_FONT_40",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "MK6 DUB",
+    "uuid": "740386a9-50a8-4008-87f2-5883e0e97563",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
